@@ -1,0 +1,2 @@
+C:\Temp\PermTest Strata\obj\Release\HS PermTest Strata.vbproj.ResolveComReference.cache
+C:\Analysis\HSHSS\HSYAS\Eval\Code\PermTest Strata\obj\Release\HS PermTest Strata.vbproj.ResolveComReference.cache

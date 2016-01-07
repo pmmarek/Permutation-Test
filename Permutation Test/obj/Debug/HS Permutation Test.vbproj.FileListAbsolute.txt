@@ -1,0 +1,2 @@
+C:\Temp\Permutation Test\obj\Debug\HS Permutation Test.vbproj.ResolveComReference.cache
+C:\Analysis\HSHSS\HSYAS\Eval\Code\Permutation Test\obj\Debug\HS Permutation Test.vbproj.ResolveComReference.cache
